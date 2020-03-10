@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/local/eda03/zixuan/NewPar/include/eigen/unsupported/test/polynomialsolver.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildUnsupported"
+		],
+		"name" : "polynomialsolver_7"
+	}
+}

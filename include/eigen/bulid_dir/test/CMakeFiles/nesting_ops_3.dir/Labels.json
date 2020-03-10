@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/local/eda03/zixuan/NewPar/include/eigen/test/nesting_ops.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "nesting_ops_3"
+	}
+}

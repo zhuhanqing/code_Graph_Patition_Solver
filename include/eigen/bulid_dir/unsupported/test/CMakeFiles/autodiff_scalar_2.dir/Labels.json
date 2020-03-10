@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/local/eda03/zixuan/NewPar/include/eigen/unsupported/test/autodiff_scalar.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildUnsupported"
+		],
+		"name" : "autodiff_scalar_2"
+	}
+}

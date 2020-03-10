@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -Wall -fopenmp -Ofast -frename-registers -fprofile-use -fprofile-correction  -pthread -rdynamic CMakeFiles/unittest.dir/unittest/main/main.cpp.o  -o ../bin/unittest /home/local/eda09/keren/libs/googletest/lib/libgtest_main.a /home/local/eda09/keren/libs/googletest/lib/libgtest.a 

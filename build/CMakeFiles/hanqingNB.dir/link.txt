@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -Wall -fopenmp -Ofast -frename-registers -fprofile-use -fprofile-correction  -pthread -rdynamic CMakeFiles/hanqingNB.dir/src/main/main.cpp.o  -o ../bin/hanqingNB /home/local/eda09/keren/libs/googletest/lib/libgtest_main.a 
